@@ -1,5 +1,5 @@
 {
-  "name": "Poeschl Home Assistant Add-ons",
-  "url": "https://github.com/Poeschl/Hassio-Addons",
-  "maintainer": "Poeschl <Poeschl@users.noreply.github.com>"
+  "name": "Home Assistant Add-ons - based on Poeschl",
+  "url": "https://github.com/awestf/Hassio-Addons",
+  "maintainer": "Poeschl <awestf@users.noreply.github.com>"
 }
