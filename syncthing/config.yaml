@@ -34,3 +34,7 @@ map:
   - media:rw
   - share:rw
   - ssl:rw
+environment:
+  GOMAXPROCS: 1
+  GOGC: 45
+
